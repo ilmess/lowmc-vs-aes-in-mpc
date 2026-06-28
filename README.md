@@ -1,6 +1,6 @@
 # LowMC vs AES in MPC
 
-This repository compares AES, LowMC, and a baseline implementation in a two-party MPC setting using FRESCO TinyTables.
+This repository compares AES, LowMC, and a baseline implementation in a two-party MPC setting using FRESCO and TinyTables.
 
 ## Folders
 
