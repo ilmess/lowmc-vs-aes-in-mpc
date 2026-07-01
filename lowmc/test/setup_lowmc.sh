@@ -5,7 +5,7 @@ KEY=$2
 ROUNDS=$3
 SBOXES=$4
 
-ROOT=~/Documents/SCHOOL/THESIS/lowmc-fresco/lowmc
+ROOT= $HOME/lowmc
 FILE=$ROOT/src/main/java/thesis/lowmc/LowMC.java
 
 sed -i '' "s/private static final int BLOCK_SIZE = .*/private static final int BLOCK_SIZE = $BLOCK;/" "$FILE"
