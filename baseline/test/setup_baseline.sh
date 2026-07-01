@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ROOT=/Users/ilmess/Documents/SCHOOL/THESIS/lowmc-fresco/baseline
+ROOT= $HOME/baseline
 
 rm -rf $ROOT/p1/src
 rm -rf $ROOT/p2/src
