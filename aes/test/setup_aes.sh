@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ROOT=~/Documents/SCHOOL/THESIS/lowmc-fresco/aes
+ROOT= $HOME/aes
 
 rm -rf $ROOT/p1/src
 rm -rf $ROOT/p2/src
